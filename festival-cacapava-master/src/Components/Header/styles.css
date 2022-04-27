@@ -1,0 +1,127 @@
+.container-header {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100%;
+}
+
+.imgFlag {
+    width: 100%;
+}
+
+.img-sponsors {
+    width: 50%;
+    margin-left: 200px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
+
+.sponsors {
+    margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 1570px) {
+    .img-sponsors {
+        margin-top: -10px;
+    }
+}
+
+@media only screen and (max-width: 1360px) {
+    .img-sponsors {
+        margin-top: -50px;
+        margin-left: 180px;
+    }
+
+    .sponsors {
+        margin-bottom: -8px;
+    }
+}
+@media only screen and (max-width: 1135px) {
+    .img-sponsors {
+        margin-top: -10px;
+    }
+    .sponsors {
+        margin-bottom: 5px;
+    }
+}
+@media only screen and (max-width: 1100px) {
+    .img-sponsors {
+        margin-top: -50px;
+    }
+
+    .sponsors {
+        margin-bottom: -8px;
+    }
+}
+
+@media only screen and (max-width: 1047px) {
+    .img-sponsors {
+        margin-top: -10px;
+    }
+
+    .sponsors {
+        margin-bottom: 5px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .img-sponsors {
+        margin-top: -50px;
+        margin-left: 160px;
+    }
+
+    .sponsors {
+        margin-bottom: -8px;
+    }
+}
+
+@media only screen and (max-width: 875px) {
+    .img-sponsors {
+        margin-top: -10px;
+    }
+
+    .sponsors {
+        margin-bottom: 5px;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+
+}
+
+@media only screen and (max-width: 700px) {
+    .socialMedia {
+        margin-top: -1%;
+    }
+    .sponsors {
+        margin-bottom: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .socialMedia {
+        margin-top: -2%;
+    }
+    .img-sponsors {
+        margin-left: 120px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .socialMedia {
+        margin-top: -4%;
+    }
+
+    .sponsors {
+        max-height: 20px;
+    }
+
+
+}
+
+@media only screen and (max-width: 320px) {
+    .socialMedia {
+        margin-top: -5%;
+    }
+}
+

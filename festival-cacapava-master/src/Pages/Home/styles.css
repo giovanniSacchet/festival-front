@@ -1,0 +1,10 @@
+.container-banner {
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.container-votation {
+    font-size: 2.5vw;
+    font-family: ringbearer-medium;
+    font-weight: bold;
+}
